@@ -27,6 +27,14 @@
 
 ![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/singer-list-4.png)
 
+歌手详情页：（歌手信息是xml文档，还未解析）
+
+![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/singer-1.png)
+
+![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/singer-2.png)
+
+![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/singer-3.png)
+
 专辑列表页：
 
 ![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/album-1.png)
