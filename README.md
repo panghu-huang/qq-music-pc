@@ -49,6 +49,12 @@
 
 ![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/playList-2.png)
 
+排行榜：
+
+![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/rank-1.png)
+
+![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/rank-2.png)
+
 电台：
 
 ![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/radio-1.png)
