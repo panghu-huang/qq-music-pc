@@ -1,6 +1,28 @@
 # QQ音乐PC端
 利用Fiddler工具抓取QQ音乐官网的数据，利用Vue.js展示和实现用户交互（由于不是自己的接口，所以删除访问接口的目录api目录下的所有文件）
 
+# 如果您是面试官的话，为了不浪费您的时间，跟您说一下
+
+前端比较完整的项目为如下几个：
+
+-------- recruitment 
+
+         利用Vue.js和Node.js实现的招聘网站
+         
+-------- QQ-PC- 
+
+         QQ音乐PC端 （http://www.wokeyi.club:8080）
+         
+-------- QQMusic-mobile 
+
+         QQ音乐移动端（早期项目，没有截图）
+         
+-------- fumulei 
+
+         伐木累 （只完成了几个页面）
+         
+ 最后感谢您的访问
+ 
 首页：
 
 ![image](https://github.com/wokeyi/QQ-PC-/blob/master/images/index-rank.png)
